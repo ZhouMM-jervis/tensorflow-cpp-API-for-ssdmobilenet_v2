@@ -4,6 +4,7 @@ ubuntu 16.04  opencv3.4  g++-6
 
 1.before the project, i use tensorflow object detection API to train a model, the model can be downloaded at
 https://pan.baidu.com/s/1CQXTOa51kIl1ZkaHeji34A password：pdgg
+
 2.then ,i follow the project(https://github.com/FloopCZ/tensorflow_cc) to  build the TensorFlow C++ static library.
 
 3.cd tensorflow-cpp-API-for-ssdmobilenet_v2 
